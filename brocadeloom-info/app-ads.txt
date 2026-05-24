@@ -1,0 +1,4 @@
+# Replace this file's contents with the app-ads.txt provided by AdMob for the Brocade Loom Weave app.
+# Find it at: AdMob → Apps → Brocade Loom Weave → App settings → app-ads.txt
+# Example line format:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
