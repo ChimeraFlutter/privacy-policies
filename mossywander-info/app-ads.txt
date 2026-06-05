@@ -1,0 +1,4 @@
+# Replace this file's contents with the app-ads.txt provided by AdMob for the Mossy Nature Wander app.
+# Find it at: AdMob → Apps → Mossy Nature Wander → App settings → app-ads.txt
+# Example line format:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
