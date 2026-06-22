@@ -1,4 +1,4 @@
-# Replace this file's contents with the app-ads.txt provided by AdMob for the Dapple Sticker Hide app.
-# Find it at: AdMob → Apps → Dapple Sticker Hide → App settings → app-ads.txt
+# Replace this file's contents with the app-ads.txt provided by AdMob for the GridDeck app.
+# Find it at: AdMob → Apps → GridDeck → App settings → app-ads.txt
 # Example line format:
 # google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
